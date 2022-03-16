@@ -27,7 +27,7 @@ Installation
 Documentation & Code Examples
 =============================
 
-The stompest API is fully documented [here](http://nikipore.github.com/stompest/).
+The stompest API is fully documented [here](http://nikipore.github.io/stompest/).
 
 Building
 --------
